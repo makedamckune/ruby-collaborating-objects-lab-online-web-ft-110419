@@ -8,18 +8,14 @@ class Song
     @@all 
   end
   
-  def name= ()
-  end
-  
-  def artist= ()
-  end 
   
   
   def self.all
     @@all 
   end 
   
-  def self.new_by_filename
+  def self.new_by_filename(filename)
+    
   end
   
   def artist.name 
